@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "operator@digital-i.com",
+      "password": "operator123",
+      "type": "operator"
+    },
+    {
+      "id": "2",
+      "email": "manager@digital-i.com",
+      "password": "manager123",
+      "type": "manager"
+    },
+    {
+      "id": "3",
+      "email": "admin@digital-i.com",
+      "password": "admin123",
+      "type": "admin"
+    }
+  ],
+  "teams": [
+    {
+      "team_id": "t_1",
+      "team_name": "SODA",
+      "manager_id": "9o8"
+    }
+  ]
+}
