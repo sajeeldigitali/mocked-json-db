@@ -2,18 +2,21 @@
   "users": [
     {
       "id": "1",
+      "fullname": "Operator One",
       "email": "operator@digital-i.com",
       "password": "operator123",
       "type": "operator"
     },
     {
       "id": "2",
+      "fullname": "Manager One",
       "email": "manager@digital-i.com",
       "password": "manager123",
       "type": "manager"
     },
     {
       "id": "3",
+      "fullname": "Admin One",
       "email": "admin@digital-i.com",
       "password": "admin123",
       "type": "admin"
