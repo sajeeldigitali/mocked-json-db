@@ -279,6 +279,280 @@
       "managedBy": "2",
       "createdOn": "2022-07-25T15:44:24.231Z",
       "id": 5
+    },
+    {
+      "name": "Notiying Team",
+      "members": [
+        {
+          "fullname": "Sajeel Hassan",
+          "email": "sajeel@digital-i.com",
+          "password": "sajeel123",
+          "type": "operator",
+          "id": "qDR15UG"
+        },
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        },
+        {
+          "id": "1",
+          "fullname": "Operator One",
+          "email": "operator@digital-i.com",
+          "password": "operator123",
+          "type": "operator"
+        }
+      ],
+      "managedBy": "wBpocFy",
+      "createdOn": "2022-07-27T10:42:31.664Z",
+      "id": 6
+    },
+    {
+      "name": "Notifiable Team",
+      "members": [
+        {
+          "fullname": "Sajeel Hassan",
+          "email": "sajeel@digital-i.com",
+          "password": "sajeel123",
+          "type": "operator",
+          "id": "qDR15UG"
+        }
+      ],
+      "managedBy": "wBpocFy",
+      "createdOn": "2022-07-27T10:50:35.359Z",
+      "id": 7
+    },
+    {
+      "name": "Notify Sajeel",
+      "members": [
+        {
+          "fullname": "Sajeel Hassan",
+          "email": "sajeel@digital-i.com",
+          "password": "sajeel123",
+          "type": "operator",
+          "id": "qDR15UG"
+        },
+        {
+          "id": "1",
+          "fullname": "Operator One",
+          "email": "operator@digital-i.com",
+          "password": "operator123",
+          "type": "operator"
+        }
+      ],
+      "managedBy": "wBpocFy",
+      "createdOn": "2022-07-27T11:02:24.855Z",
+      "id": 8
+    },
+    {
+      "name": "mems",
+      "members": [
+        {
+          "fullname": "Sajeel Hassan",
+          "email": "sajeel@digital-i.com",
+          "password": "sajeel123",
+          "type": "operator",
+          "id": "qDR15UG"
+        },
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        },
+        {
+          "fullname": "Valeria Palishchuk",
+          "email": "valeria@digital-i.com",
+          "password": "valeria123",
+          "type": "operator",
+          "id": "oaCAU_h"
+        },
+        {
+          "id": "1",
+          "fullname": "Operator One",
+          "email": "operator@digital-i.com",
+          "password": "operator123",
+          "type": "operator"
+        }
+      ],
+      "managedBy": "wBpocFy",
+      "createdOn": "2022-07-27T11:06:26.710Z",
+      "id": 9
+    },
+    {
+      "name": "mem logs",
+      "members": [
+        {
+          "fullname": "Sajeel Hassan",
+          "email": "sajeel@digital-i.com",
+          "password": "sajeel123",
+          "type": "operator",
+          "id": "qDR15UG"
+        },
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        },
+        {
+          "fullname": "Valeria Palishchuk",
+          "email": "valeria@digital-i.com",
+          "password": "valeria123",
+          "type": "operator",
+          "id": "oaCAU_h"
+        },
+        {
+          "fullname": "Alec Benjamin",
+          "email": "alec@digital-i.com",
+          "password": "alec1234",
+          "type": "operator",
+          "id": "GwjM41S"
+        },
+        {
+          "fullname": "Thomas Shelby",
+          "email": "thomas@digital-i.com",
+          "password": "thomas123",
+          "type": "operator",
+          "id": "IrxZvNU"
+        },
+        {
+          "fullname": "Luis Molano",
+          "email": "luis@digital-i.com",
+          "password": "luis1234",
+          "type": "operator",
+          "id": "X9dS_Qz"
+        },
+        {
+          "id": "1",
+          "fullname": "Operator One",
+          "email": "operator@digital-i.com",
+          "password": "operator123",
+          "type": "operator"
+        }
+      ],
+      "managedBy": "wBpocFy",
+      "createdOn": "2022-07-27T11:07:20.196Z",
+      "id": 10
+    },
+    {
+      "name": "Promise.all notifies",
+      "members": [
+        {
+          "fullname": "Sajeel Hassan",
+          "email": "sajeel@digital-i.com",
+          "password": "sajeel123",
+          "type": "operator",
+          "id": "qDR15UG"
+        },
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        },
+        {
+          "fullname": "Valeria Palishchuk",
+          "email": "valeria@digital-i.com",
+          "password": "valeria123",
+          "type": "operator",
+          "id": "oaCAU_h"
+        }
+      ],
+      "managedBy": "wBpocFy",
+      "createdOn": "2022-07-27T11:16:21.937Z",
+      "id": 11
+    },
+    {
+      "name": "log all promises",
+      "members": [
+        {
+          "fullname": "Sajeel Hassan",
+          "email": "sajeel@digital-i.com",
+          "password": "sajeel123",
+          "type": "operator",
+          "id": "qDR15UG"
+        },
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        },
+        {
+          "fullname": "Valeria Palishchuk",
+          "email": "valeria@digital-i.com",
+          "password": "valeria123",
+          "type": "operator",
+          "id": "oaCAU_h"
+        }
+      ],
+      "managedBy": "wBpocFy",
+      "createdOn": "2022-07-27T11:17:47.524Z",
+      "id": 12
+    },
+    {
+      "name": "Send Notifications to ALL Members",
+      "members": [
+        {
+          "id": "1",
+          "fullname": "Operator One",
+          "email": "operator@digital-i.com",
+          "password": "operator123",
+          "type": "operator"
+        },
+        {
+          "fullname": "Sajeel Hassan",
+          "email": "sajeel@digital-i.com",
+          "password": "sajeel123",
+          "type": "operator",
+          "id": "qDR15UG"
+        },
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        },
+        {
+          "fullname": "Valeria Palishchuk",
+          "email": "valeria@digital-i.com",
+          "password": "valeria123",
+          "type": "operator",
+          "id": "oaCAU_h"
+        },
+        {
+          "fullname": "Luis Molano",
+          "email": "luis@digital-i.com",
+          "password": "luis1234",
+          "type": "operator",
+          "id": "X9dS_Qz"
+        },
+        {
+          "fullname": "Thomas Shelby",
+          "email": "thomas@digital-i.com",
+          "password": "thomas123",
+          "type": "operator",
+          "id": "IrxZvNU"
+        },
+        {
+          "fullname": "Alec Benjamin",
+          "email": "alec@digital-i.com",
+          "password": "alec1234",
+          "type": "operator",
+          "id": "GwjM41S"
+        }
+      ],
+      "managedBy": "wBpocFy",
+      "createdOn": "2022-07-27T11:19:19.214Z",
+      "id": 13
     }
   ],
   "items": [
@@ -339,6 +613,422 @@
       "estimated": "",
       "createdOn": "2022-07-26T14:25:03.559Z",
       "id": 5
+    }
+  ],
+  "notifications": [
+    {
+      "id": "1",
+      "receivedBy": "qDR15UG",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Assigned",
+        "info": "Split amazon collection logic into steps"
+      },
+      "time": "2022-07-26T14:25:03.559Z",
+      "team": {
+        "name": "SoDA",
+        "id": 1
+      },
+      "read": false
+    },
+    {
+      "receivedBy": "qDR15UG",
+      "sendBy": {
+        "id": "wBpocFy",
+        "fullname": "Daniel Molano"
+      },
+      "content": {
+        "type": "Added",
+        "info": "Notifiable Team"
+      },
+      "time": "2022-07-27T10:50:35.554Z",
+      "team": {
+        "name": "Notifiable Team",
+        "id": 7
+      },
+      "read": false,
+      "id": "TzGhxlb"
+    },
+    {
+      "receivedBy": "qDR15UG",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "Notify Sajeel"
+      },
+      "time": "2022-07-27T11:02:25.094Z",
+      "team": {
+        "name": "Notify Sajeel",
+        "id": 8
+      },
+      "read": false,
+      "id": "IuBhdvc"
+    },
+    {
+      "receivedBy": "qDR15UG",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "mem logs"
+      },
+      "time": "2022-07-27T11:07:20.500Z",
+      "team": {
+        "name": "mem logs",
+        "id": 10
+      },
+      "read": false,
+      "id": "jlv-TDV"
+    },
+    {
+      "receivedBy": "wjrk3u4",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "mem logs"
+      },
+      "time": "2022-07-27T11:07:20.504Z",
+      "team": {
+        "name": "mem logs",
+        "id": 10
+      },
+      "read": false,
+      "id": "qzDnQT2"
+    },
+    {
+      "receivedBy": "oaCAU_h",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "mem logs"
+      },
+      "time": "2022-07-27T11:07:20.507Z",
+      "team": {
+        "name": "mem logs",
+        "id": 10
+      },
+      "read": false,
+      "id": "cCDm-ZH"
+    },
+    {
+      "receivedBy": "GwjM41S",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "mem logs"
+      },
+      "time": "2022-07-27T11:07:20.511Z",
+      "team": {
+        "name": "mem logs",
+        "id": 10
+      },
+      "read": false,
+      "id": "vWV946S"
+    },
+    {
+      "receivedBy": "IrxZvNU",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "mem logs"
+      },
+      "time": "2022-07-27T11:07:20.515Z",
+      "team": {
+        "name": "mem logs",
+        "id": 10
+      },
+      "read": false,
+      "id": "kAnS4Ow"
+    },
+    {
+      "receivedBy": "X9dS_Qz",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "mem logs"
+      },
+      "time": "2022-07-27T11:07:20.518Z",
+      "team": {
+        "name": "mem logs",
+        "id": 10
+      },
+      "read": false,
+      "id": "WYBDNmO"
+    },
+    {
+      "receivedBy": "1",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "mem logs"
+      },
+      "time": "2022-07-27T11:07:20.521Z",
+      "team": {
+        "name": "mem logs",
+        "id": 10
+      },
+      "read": false,
+      "id": "c89MpKS"
+    },
+    {
+      "receivedBy": "qDR15UG",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "Promise.all notifies"
+      },
+      "time": "2022-07-27T11:16:22.274Z",
+      "team": {
+        "name": "Promise.all notifies",
+        "id": 11
+      },
+      "read": false,
+      "id": "TlTk3rn"
+    },
+    {
+      "receivedBy": "wjrk3u4",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "Promise.all notifies"
+      },
+      "time": "2022-07-27T11:16:22.277Z",
+      "team": {
+        "name": "Promise.all notifies",
+        "id": 11
+      },
+      "read": false,
+      "id": "o4YDSbj"
+    },
+    {
+      "receivedBy": "oaCAU_h",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "Promise.all notifies"
+      },
+      "time": "2022-07-27T11:16:22.281Z",
+      "team": {
+        "name": "Promise.all notifies",
+        "id": 11
+      },
+      "read": false,
+      "id": "RCrkH7t"
+    },
+    {
+      "receivedBy": "qDR15UG",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "log all promises"
+      },
+      "time": "2022-07-27T11:17:47.874Z",
+      "team": {
+        "name": "log all promises",
+        "id": 12
+      },
+      "read": false,
+      "id": "mlEZsNa"
+    },
+    {
+      "receivedBy": "wjrk3u4",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "log all promises"
+      },
+      "time": "2022-07-27T11:17:47.877Z",
+      "team": {
+        "name": "log all promises",
+        "id": 12
+      },
+      "read": false,
+      "id": "jmwVQi2"
+    },
+    {
+      "receivedBy": "oaCAU_h",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "log all promises"
+      },
+      "time": "2022-07-27T11:17:47.881Z",
+      "team": {
+        "name": "log all promises",
+        "id": 12
+      },
+      "read": false,
+      "id": "cIJ15Qi"
+    },
+    {
+      "receivedBy": "1",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "Send Notifications to ALL Members"
+      },
+      "time": "2022-07-27T11:19:19.562Z",
+      "team": {
+        "name": "Send Notifications to ALL Members",
+        "id": 13
+      },
+      "read": false,
+      "id": "sg355c7"
+    },
+    {
+      "receivedBy": "wjrk3u4",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "Send Notifications to ALL Members"
+      },
+      "time": "2022-07-27T11:19:19.570Z",
+      "team": {
+        "name": "Send Notifications to ALL Members",
+        "id": 13
+      },
+      "read": false,
+      "id": "68G0l9w"
+    },
+    {
+      "receivedBy": "oaCAU_h",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "Send Notifications to ALL Members"
+      },
+      "time": "2022-07-27T11:19:19.573Z",
+      "team": {
+        "name": "Send Notifications to ALL Members",
+        "id": 13
+      },
+      "read": false,
+      "id": "WeSCaK2"
+    },
+    {
+      "receivedBy": "X9dS_Qz",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "Send Notifications to ALL Members"
+      },
+      "time": "2022-07-27T11:19:19.577Z",
+      "team": {
+        "name": "Send Notifications to ALL Members",
+        "id": 13
+      },
+      "read": false,
+      "id": "Wuykil1"
+    },
+    {
+      "receivedBy": "IrxZvNU",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "Send Notifications to ALL Members"
+      },
+      "time": "2022-07-27T11:19:19.580Z",
+      "team": {
+        "name": "Send Notifications to ALL Members",
+        "id": 13
+      },
+      "read": false,
+      "id": "LeYALX8"
+    },
+    {
+      "receivedBy": "qDR15UG",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "Send Notifications to ALL Members"
+      },
+      "time": "2022-07-27T11:19:19.566Z",
+      "team": {
+        "name": "Send Notifications to ALL Members",
+        "id": 13
+      },
+      "read": false,
+      "id": "iOiCff4"
+    },
+    {
+      "receivedBy": "GwjM41S",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "Send Notifications to ALL Members"
+      },
+      "time": "2022-07-27T11:19:19.583Z",
+      "team": {
+        "name": "Send Notifications to ALL Members",
+        "id": 13
+      },
+      "read": false,
+      "id": "Zwgi_XI"
     }
   ]
 }
