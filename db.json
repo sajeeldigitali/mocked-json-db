@@ -20,13 +20,325 @@
       "email": "admin@digital-i.com",
       "password": "admin123",
       "type": "admin"
+    },
+    {
+      "fullname": "Sajeel Hassan",
+      "email": "sajeel@digital-i.com",
+      "password": "sajeel123",
+      "type": "operator",
+      "id": "qDR15UG"
+    },
+    {
+      "fullname": "Daniel Molano",
+      "email": "daniel@digital-i.com",
+      "password": "daniel123",
+      "type": "manager",
+      "id": "wBpocFy"
+    },
+    {
+      "fullname": "Alex Summers",
+      "email": "alex@digital-i.com",
+      "password": "alex1234",
+      "type": "operator",
+      "id": "wjrk3u4"
+    },
+    {
+      "fullname": "Valeria Palishchuk",
+      "email": "valeria@digital-i.com",
+      "password": "valeria123",
+      "type": "operator",
+      "id": "oaCAU_h"
+    },
+    {
+      "fullname": "Luis Molano",
+      "email": "luis@digital-i.com",
+      "password": "luis1234",
+      "type": "operator",
+      "id": "X9dS_Qz"
+    },
+    {
+      "fullname": "Thomas Shelby",
+      "email": "thomas@digital-i.com",
+      "password": "thomas123",
+      "type": "operator",
+      "id": "IrxZvNU"
+    },
+    {
+      "fullname": "Alec Benjamin",
+      "email": "alec@digital-i.com",
+      "password": "alec1234",
+      "type": "operator",
+      "id": "GwjM41S"
     }
   ],
   "teams": [
     {
-      "team_id": "t_1",
-      "team_name": "SODA",
-      "manager_id": "9o8"
+      "name": "SoDA",
+      "members": [
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        },
+        {
+          "fullname": "Valeria Palishchuk",
+          "email": "valeria@digital-i.com",
+          "password": "valeria123",
+          "type": "operator",
+          "id": "oaCAU_h"
+        },
+        {
+          "id": "1",
+          "fullname": "Operator One",
+          "email": "operator@digital-i.com",
+          "password": "operator123",
+          "type": "operator"
+        },
+        {
+          "fullname": "Alec Benjamin",
+          "email": "alec@digital-i.com",
+          "password": "alec1234",
+          "type": "operator",
+          "id": "GwjM41S"
+        },
+        {
+          "fullname": "Thomas Shelby",
+          "email": "thomas@digital-i.com",
+          "password": "thomas123",
+          "type": "operator",
+          "id": "IrxZvNU"
+        },
+        {
+          "fullname": "Luis Molano",
+          "email": "luis@digital-i.com",
+          "password": "luis1234",
+          "type": "operator",
+          "id": "X9dS_Qz"
+        },
+        {
+          "fullname": "Sajeel Hassan",
+          "email": "sajeel@digital-i.com",
+          "password": "sajeel123",
+          "type": "operator",
+          "id": "qDR15UG"
+        }
+      ],
+      "managedBy": "wBpocFy",
+      "createdOn": "2022-07-27T08:09:26.417Z",
+      "id": 1
+    },
+    {
+      "name": "Internal Tools Updated",
+      "members": [
+        {
+          "fullname": "Sajeel Hassan",
+          "email": "sajeel@digital-i.com",
+          "password": "sajeel23",
+          "type": "operator",
+          "id": "qDR15UG"
+        },
+        {
+          "fullname": "Alec Benjamin",
+          "email": "alec@digital-i.com",
+          "password": "alec1234",
+          "type": "operator",
+          "id": "GwjM41S"
+        }
+      ],
+      "managedBy": "wBpocFy",
+      "createdOn": "2022-07-26T10:27:07.245Z",
+      "id": 2
+    },
+    {
+      "name": "Mobile App Team",
+      "members": [
+        {
+          "fullname": "Alec Benjamin",
+          "email": "alec@digital-i.com",
+          "password": "alec1234",
+          "type": "operator",
+          "id": "GwjM41S"
+        },
+        {
+          "fullname": "Thomas Shelby",
+          "email": "thomas@digital-i.com",
+          "password": "thomas123",
+          "type": "operator",
+          "id": "IrxZvNU"
+        },
+        {
+          "fullname": "Luis Molano",
+          "email": "luis@digital-i.com",
+          "password": "luis1234",
+          "type": "operator",
+          "id": "X9dS_Qz"
+        }
+      ],
+      "createdOn": "2022-07-22T15:27:51.010Z",
+      "managedBy": "wBpocFy",
+      "id": 3
+    },
+    {
+      "name": "ITV Team Update",
+      "members": [
+        {
+          "fullname": "Sajeel Hassan",
+          "email": "sajeel@digital-i.com",
+          "password": "sajeel123",
+          "type": "operator",
+          "id": "qDR15UG"
+        },
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        },
+        {
+          "fullname": "Valeria Palishchuk",
+          "email": "valeria@digital-i.com",
+          "password": "valeria123",
+          "type": "operator",
+          "id": "oaCAU_h"
+        },
+        {
+          "fullname": "Luis Molano",
+          "email": "luis@digital-i.com",
+          "password": "luis1234",
+          "type": "operator",
+          "id": "X9dS_Qz"
+        },
+        {
+          "fullname": "Thomas Shelby",
+          "email": "thomas@digital-i.com",
+          "password": "thomas123",
+          "type": "operator",
+          "id": "IrxZvNU"
+        },
+        {
+          "fullname": "Alec Benjamin",
+          "email": "alec@digital-i.com",
+          "password": "alec1234",
+          "type": "operator",
+          "id": "GwjM41S"
+        }
+      ],
+      "createdOn": "2022-07-22T15:27:51.010Z",
+      "managedBy": "wBpocFy",
+      "id": 4
+    },
+    {
+      "name": "This should work Team",
+      "members": [
+        {
+          "fullname": "Sajeel Hassan",
+          "email": "sajeel@digital-i.com",
+          "password": "sajeel123",
+          "type": "operator",
+          "id": "qDR15UG"
+        },
+        {
+          "fullname": "Valeria Palishchuk",
+          "email": "valeria@digital-i.com",
+          "password": "valeria123",
+          "type": "operator",
+          "id": "oaCAU_h"
+        },
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        },
+        {
+          "fullname": "Luis Molano",
+          "email": "luis@digital-i.com",
+          "password": "luis1234",
+          "type": "operator",
+          "id": "X9dS_Qz"
+        },
+        {
+          "fullname": "Thomas Shelby",
+          "email": "thomas@digital-i.com",
+          "password": "thomas123",
+          "type": "operator",
+          "id": "IrxZvNU"
+        },
+        {
+          "fullname": "Alec Benjamin",
+          "email": "alec@digital-i.com",
+          "password": "alec1234",
+          "type": "operator",
+          "id": "GwjM41S"
+        }
+      ],
+      "managedBy": "2",
+      "createdOn": "2022-07-25T15:44:24.231Z",
+      "id": 5
+    }
+  ],
+  "items": [
+    {
+      "teamId": 2,
+      "itemname": "Run the scripts for the weekend mates",
+      "taskowners": [
+        {
+          "fullname": "Sajeel Hassan",
+          "email": "sajeel@digital-i.com",
+          "password": "sajeel23",
+          "type": "operator",
+          "id": "qDR15UG"
+        },
+        {
+          "fullname": "Alec Benjamin",
+          "email": "alec@digital-i.com",
+          "password": "alec1234",
+          "type": "operator",
+          "id": "GwjM41S"
+        }
+      ],
+      "status": "Paused",
+      "estimated": "",
+      "createdOn": "2022-07-26T13:22:40.477Z",
+      "id": 2
+    },
+    {
+      "teamId": 3,
+      "itemname": "Run Amazon collection db scripts",
+      "taskowners": [
+        {
+          "fullname": "Thomas Shelby",
+          "email": "thomas@digital-i.com",
+          "password": "thomas123",
+          "type": "operator",
+          "id": "IrxZvNU"
+        }
+      ],
+      "status": "In Progress",
+      "estimated": "",
+      "createdOn": "2022-07-22T15:29:11.509Z",
+      "id": 3
+    },
+    {
+      "teamId": 4,
+      "itemname": "Run Queries at maximum",
+      "taskowners": [
+        {
+          "fullname": "Sajeel Hassan",
+          "email": "sajeel@digital-i.com",
+          "password": "sajeel123",
+          "type": "operator",
+          "id": "qDR15UG"
+        }
+      ],
+      "status": "Paused",
+      "estimated": "",
+      "createdOn": "2022-07-26T14:25:03.559Z",
+      "id": 5
     }
   ]
 }
