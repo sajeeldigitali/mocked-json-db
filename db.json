@@ -76,25 +76,26 @@
       "name": "SoDA",
       "members": [
         {
-          "fullname": "Alex Summers",
-          "email": "alex@digital-i.com",
-          "password": "alex1234",
+          "fullname": "Sajeel Hassan",
+          "email": "sajeel@digital-i.com",
+          "password": "sajeel123",
           "type": "operator",
-          "id": "wjrk3u4"
-        },
+          "id": "qDR15UG"
+        }
+      ],
+      "managedBy": "wBpocFy",
+      "createdOn": "2022-07-28T17:17:26.545Z",
+      "id": 1
+    },
+    {
+      "name": "Internal Tools",
+      "members": [
         {
-          "fullname": "Valeria Palishchuk",
-          "email": "valeria@digital-i.com",
-          "password": "valeria123",
+          "fullname": "Sajeel Hassan",
+          "email": "sajeel@digital-i.com",
+          "password": "sajeel23",
           "type": "operator",
-          "id": "oaCAU_h"
-        },
-        {
-          "id": "1",
-          "fullname": "Operator One",
-          "email": "operator@digital-i.com",
-          "password": "operator123",
-          "type": "operator"
+          "id": "qDR15UG"
         },
         {
           "fullname": "Alec Benjamin",
@@ -102,6 +103,20 @@
           "password": "alec1234",
           "type": "operator",
           "id": "GwjM41S"
+        },
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        },
+        {
+          "id": "1",
+          "fullname": "Operator One",
+          "email": "operator@digital-i.com",
+          "password": "operator123",
+          "type": "operator"
         },
         {
           "fullname": "Thomas Shelby",
@@ -118,37 +133,15 @@
           "id": "X9dS_Qz"
         },
         {
-          "fullname": "Sajeel Hassan",
-          "email": "sajeel@digital-i.com",
-          "password": "sajeel123",
+          "fullname": "Valeria Palishchuk",
+          "email": "valeria@digital-i.com",
+          "password": "valeria123",
           "type": "operator",
-          "id": "qDR15UG"
+          "id": "oaCAU_h"
         }
       ],
       "managedBy": "wBpocFy",
-      "createdOn": "2022-07-27T08:09:26.417Z",
-      "id": 1
-    },
-    {
-      "name": "Internal Tools Updated",
-      "members": [
-        {
-          "fullname": "Sajeel Hassan",
-          "email": "sajeel@digital-i.com",
-          "password": "sajeel23",
-          "type": "operator",
-          "id": "qDR15UG"
-        },
-        {
-          "fullname": "Alec Benjamin",
-          "email": "alec@digital-i.com",
-          "password": "alec1234",
-          "type": "operator",
-          "id": "GwjM41S"
-        }
-      ],
-      "managedBy": "wBpocFy",
-      "createdOn": "2022-07-26T10:27:07.245Z",
+      "createdOn": "2022-07-28T09:43:04.965Z",
       "id": 2
     },
     {
@@ -181,7 +174,7 @@
       "id": 3
     },
     {
-      "name": "ITV Team Update",
+      "name": "ITV Team ",
       "members": [
         {
           "fullname": "Sajeel Hassan",
@@ -226,8 +219,8 @@
           "id": "GwjM41S"
         }
       ],
-      "createdOn": "2022-07-22T15:27:51.010Z",
       "managedBy": "wBpocFy",
+      "createdOn": "2022-07-27T11:26:56.398Z",
       "id": 4
     },
     {
@@ -279,286 +272,12 @@
       "managedBy": "2",
       "createdOn": "2022-07-25T15:44:24.231Z",
       "id": 5
-    },
-    {
-      "name": "Notiying Team",
-      "members": [
-        {
-          "fullname": "Sajeel Hassan",
-          "email": "sajeel@digital-i.com",
-          "password": "sajeel123",
-          "type": "operator",
-          "id": "qDR15UG"
-        },
-        {
-          "fullname": "Alex Summers",
-          "email": "alex@digital-i.com",
-          "password": "alex1234",
-          "type": "operator",
-          "id": "wjrk3u4"
-        },
-        {
-          "id": "1",
-          "fullname": "Operator One",
-          "email": "operator@digital-i.com",
-          "password": "operator123",
-          "type": "operator"
-        }
-      ],
-      "managedBy": "wBpocFy",
-      "createdOn": "2022-07-27T10:42:31.664Z",
-      "id": 6
-    },
-    {
-      "name": "Notifiable Team",
-      "members": [
-        {
-          "fullname": "Sajeel Hassan",
-          "email": "sajeel@digital-i.com",
-          "password": "sajeel123",
-          "type": "operator",
-          "id": "qDR15UG"
-        }
-      ],
-      "managedBy": "wBpocFy",
-      "createdOn": "2022-07-27T10:50:35.359Z",
-      "id": 7
-    },
-    {
-      "name": "Notify Sajeel",
-      "members": [
-        {
-          "fullname": "Sajeel Hassan",
-          "email": "sajeel@digital-i.com",
-          "password": "sajeel123",
-          "type": "operator",
-          "id": "qDR15UG"
-        },
-        {
-          "id": "1",
-          "fullname": "Operator One",
-          "email": "operator@digital-i.com",
-          "password": "operator123",
-          "type": "operator"
-        }
-      ],
-      "managedBy": "wBpocFy",
-      "createdOn": "2022-07-27T11:02:24.855Z",
-      "id": 8
-    },
-    {
-      "name": "mems",
-      "members": [
-        {
-          "fullname": "Sajeel Hassan",
-          "email": "sajeel@digital-i.com",
-          "password": "sajeel123",
-          "type": "operator",
-          "id": "qDR15UG"
-        },
-        {
-          "fullname": "Alex Summers",
-          "email": "alex@digital-i.com",
-          "password": "alex1234",
-          "type": "operator",
-          "id": "wjrk3u4"
-        },
-        {
-          "fullname": "Valeria Palishchuk",
-          "email": "valeria@digital-i.com",
-          "password": "valeria123",
-          "type": "operator",
-          "id": "oaCAU_h"
-        },
-        {
-          "id": "1",
-          "fullname": "Operator One",
-          "email": "operator@digital-i.com",
-          "password": "operator123",
-          "type": "operator"
-        }
-      ],
-      "managedBy": "wBpocFy",
-      "createdOn": "2022-07-27T11:06:26.710Z",
-      "id": 9
-    },
-    {
-      "name": "mem logs",
-      "members": [
-        {
-          "fullname": "Sajeel Hassan",
-          "email": "sajeel@digital-i.com",
-          "password": "sajeel123",
-          "type": "operator",
-          "id": "qDR15UG"
-        },
-        {
-          "fullname": "Alex Summers",
-          "email": "alex@digital-i.com",
-          "password": "alex1234",
-          "type": "operator",
-          "id": "wjrk3u4"
-        },
-        {
-          "fullname": "Valeria Palishchuk",
-          "email": "valeria@digital-i.com",
-          "password": "valeria123",
-          "type": "operator",
-          "id": "oaCAU_h"
-        },
-        {
-          "fullname": "Alec Benjamin",
-          "email": "alec@digital-i.com",
-          "password": "alec1234",
-          "type": "operator",
-          "id": "GwjM41S"
-        },
-        {
-          "fullname": "Thomas Shelby",
-          "email": "thomas@digital-i.com",
-          "password": "thomas123",
-          "type": "operator",
-          "id": "IrxZvNU"
-        },
-        {
-          "fullname": "Luis Molano",
-          "email": "luis@digital-i.com",
-          "password": "luis1234",
-          "type": "operator",
-          "id": "X9dS_Qz"
-        },
-        {
-          "id": "1",
-          "fullname": "Operator One",
-          "email": "operator@digital-i.com",
-          "password": "operator123",
-          "type": "operator"
-        }
-      ],
-      "managedBy": "wBpocFy",
-      "createdOn": "2022-07-27T11:07:20.196Z",
-      "id": 10
-    },
-    {
-      "name": "Promise.all notifies",
-      "members": [
-        {
-          "fullname": "Sajeel Hassan",
-          "email": "sajeel@digital-i.com",
-          "password": "sajeel123",
-          "type": "operator",
-          "id": "qDR15UG"
-        },
-        {
-          "fullname": "Alex Summers",
-          "email": "alex@digital-i.com",
-          "password": "alex1234",
-          "type": "operator",
-          "id": "wjrk3u4"
-        },
-        {
-          "fullname": "Valeria Palishchuk",
-          "email": "valeria@digital-i.com",
-          "password": "valeria123",
-          "type": "operator",
-          "id": "oaCAU_h"
-        }
-      ],
-      "managedBy": "wBpocFy",
-      "createdOn": "2022-07-27T11:16:21.937Z",
-      "id": 11
-    },
-    {
-      "name": "log all promises",
-      "members": [
-        {
-          "fullname": "Sajeel Hassan",
-          "email": "sajeel@digital-i.com",
-          "password": "sajeel123",
-          "type": "operator",
-          "id": "qDR15UG"
-        },
-        {
-          "fullname": "Alex Summers",
-          "email": "alex@digital-i.com",
-          "password": "alex1234",
-          "type": "operator",
-          "id": "wjrk3u4"
-        },
-        {
-          "fullname": "Valeria Palishchuk",
-          "email": "valeria@digital-i.com",
-          "password": "valeria123",
-          "type": "operator",
-          "id": "oaCAU_h"
-        }
-      ],
-      "managedBy": "wBpocFy",
-      "createdOn": "2022-07-27T11:17:47.524Z",
-      "id": 12
-    },
-    {
-      "name": "Send Notifications to ALL Members",
-      "members": [
-        {
-          "id": "1",
-          "fullname": "Operator One",
-          "email": "operator@digital-i.com",
-          "password": "operator123",
-          "type": "operator"
-        },
-        {
-          "fullname": "Sajeel Hassan",
-          "email": "sajeel@digital-i.com",
-          "password": "sajeel123",
-          "type": "operator",
-          "id": "qDR15UG"
-        },
-        {
-          "fullname": "Alex Summers",
-          "email": "alex@digital-i.com",
-          "password": "alex1234",
-          "type": "operator",
-          "id": "wjrk3u4"
-        },
-        {
-          "fullname": "Valeria Palishchuk",
-          "email": "valeria@digital-i.com",
-          "password": "valeria123",
-          "type": "operator",
-          "id": "oaCAU_h"
-        },
-        {
-          "fullname": "Luis Molano",
-          "email": "luis@digital-i.com",
-          "password": "luis1234",
-          "type": "operator",
-          "id": "X9dS_Qz"
-        },
-        {
-          "fullname": "Thomas Shelby",
-          "email": "thomas@digital-i.com",
-          "password": "thomas123",
-          "type": "operator",
-          "id": "IrxZvNU"
-        },
-        {
-          "fullname": "Alec Benjamin",
-          "email": "alec@digital-i.com",
-          "password": "alec1234",
-          "type": "operator",
-          "id": "GwjM41S"
-        }
-      ],
-      "managedBy": "wBpocFy",
-      "createdOn": "2022-07-27T11:19:19.214Z",
-      "id": 13
     }
   ],
   "items": [
     {
       "teamId": 2,
-      "itemname": "Run the scripts for the weekend mates",
+      "itemname": "Run the scripts for the weekend matesRun the scripts for the weekend matesRun the scripts for the weekend matesRun the scripts for the weekend mates",
       "taskowners": [
         {
           "fullname": "Sajeel Hassan",
@@ -573,11 +292,46 @@
           "password": "alec1234",
           "type": "operator",
           "id": "GwjM41S"
+        },
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        },
+        {
+          "id": "1",
+          "fullname": "Operator One",
+          "email": "operator@digital-i.com",
+          "password": "operator123",
+          "type": "operator"
+        },
+        {
+          "fullname": "Valeria Palishchuk",
+          "email": "valeria@digital-i.com",
+          "password": "valeria123",
+          "type": "operator",
+          "id": "oaCAU_h"
+        },
+        {
+          "fullname": "Luis Molano",
+          "email": "luis@digital-i.com",
+          "password": "luis1234",
+          "type": "operator",
+          "id": "X9dS_Qz"
+        },
+        {
+          "fullname": "Thomas Shelby",
+          "email": "thomas@digital-i.com",
+          "password": "thomas123",
+          "type": "operator",
+          "id": "IrxZvNU"
         }
       ],
-      "status": "Paused",
+      "status": "To do",
       "estimated": "",
-      "createdOn": "2022-07-26T13:22:40.477Z",
+      "createdOn": "2022-07-28T09:45:25.858Z",
       "id": 2
     },
     {
@@ -592,7 +346,7 @@
           "id": "IrxZvNU"
         }
       ],
-      "status": "In Progress",
+      "status": "Done",
       "estimated": "",
       "createdOn": "2022-07-22T15:29:11.509Z",
       "id": 3
@@ -609,10 +363,27 @@
           "id": "qDR15UG"
         }
       ],
-      "status": "Paused",
+      "status": "Done",
       "estimated": "",
       "createdOn": "2022-07-26T14:25:03.559Z",
       "id": 5
+    },
+    {
+      "teamId": 1,
+      "itemname": "if there is an items that we need to add then",
+      "taskowners": [
+        {
+          "fullname": "Sajeel Hassan",
+          "email": "sajeel@digital-i.com",
+          "password": "sajeel123",
+          "type": "operator",
+          "id": "qDR15UG"
+        }
+      ],
+      "status": "Done",
+      "estimated": "",
+      "createdOn": "2022-07-29T13:09:14.209Z",
+      "id": 6
     }
   ],
   "notifications": [
