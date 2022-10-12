@@ -33,7 +33,7 @@
       "email": "daniel@digital-i.com",
       "password": "daniel123",
       "type": "manager",
-      "id": "wBpocFy"
+      "id": "0a79df55-d8ee-4c55-b6b0-9ce07458744d"
     },
     {
       "fullname": "Alex Summers",
@@ -71,7 +71,1052 @@
       "id": "GwjM41S"
     }
   ],
-  "teams": [],
-  "items": [],
-  "notifications": []
+  "teams": [
+    {
+      "name": "Internal Tools",
+      "members": [
+        {
+          "fullname": "Sajeel Hassan",
+          "email": "sajeel@digital-i.com",
+          "password": "sajeel23",
+          "type": "operator",
+          "id": "qDR15UG"
+        },
+        {
+          "fullname": "Alec Benjamin",
+          "email": "alec@digital-i.com",
+          "password": "alec1234",
+          "type": "operator",
+          "id": "GwjM41S"
+        },
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        },
+        {
+          "id": "1",
+          "fullname": "Operator One",
+          "email": "operator@digital-i.com",
+          "password": "operator123",
+          "type": "operator"
+        },
+        {
+          "fullname": "Thomas Shelby",
+          "email": "thomas@digital-i.com",
+          "password": "thomas123",
+          "type": "operator",
+          "id": "IrxZvNU"
+        },
+        {
+          "fullname": "Luis Molano",
+          "email": "luis@digital-i.com",
+          "password": "luis1234",
+          "type": "operator",
+          "id": "X9dS_Qz"
+        },
+        {
+          "fullname": "Valeria Palishchuk",
+          "email": "valeria@digital-i.com",
+          "password": "valeria123",
+          "type": "operator",
+          "id": "oaCAU_h"
+        }
+      ],
+      "managedBy": "0a79df55-d8ee-4c55-b6b0-9ce07458744d",
+      "createdOn": "2022-07-28T09:43:04.965Z",
+      "id": 2
+    },
+    {
+      "name": "ITV Team ",
+      "members": [
+        {
+          "fullname": "Sajeel Hassan",
+          "email": "sajeel@digital-i.com",
+          "password": "sajeel123",
+          "type": "operator",
+          "id": "qDR15UG"
+        },
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        },
+        {
+          "fullname": "Valeria Palishchuk",
+          "email": "valeria@digital-i.com",
+          "password": "valeria123",
+          "type": "operator",
+          "id": "oaCAU_h"
+        },
+        {
+          "fullname": "Luis Molano",
+          "email": "luis@digital-i.com",
+          "password": "luis1234",
+          "type": "operator",
+          "id": "X9dS_Qz"
+        },
+        {
+          "fullname": "Thomas Shelby",
+          "email": "thomas@digital-i.com",
+          "password": "thomas123",
+          "type": "operator",
+          "id": "IrxZvNU"
+        },
+        {
+          "fullname": "Alec Benjamin",
+          "email": "alec@digital-i.com",
+          "password": "alec1234",
+          "type": "operator",
+          "id": "GwjM41S"
+        }
+      ],
+      "managedBy": "0a79df55-d8ee-4c55-b6b0-9ce07458744d",
+      "createdOn": "2022-07-27T11:26:56.398Z",
+      "id": 4
+    },
+    {
+      "name": "This should work Team",
+      "members": [
+        {
+          "fullname": "Sajeel Hassan",
+          "email": "sajeel@digital-i.com",
+          "password": "sajeel123",
+          "type": "operator",
+          "id": "qDR15UG"
+        },
+        {
+          "fullname": "Valeria Palishchuk",
+          "email": "valeria@digital-i.com",
+          "password": "valeria123",
+          "type": "operator",
+          "id": "oaCAU_h"
+        },
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        },
+        {
+          "fullname": "Luis Molano",
+          "email": "luis@digital-i.com",
+          "password": "luis1234",
+          "type": "operator",
+          "id": "X9dS_Qz"
+        },
+        {
+          "fullname": "Thomas Shelby",
+          "email": "thomas@digital-i.com",
+          "password": "thomas123",
+          "type": "operator",
+          "id": "IrxZvNU"
+        },
+        {
+          "fullname": "Alec Benjamin",
+          "email": "alec@digital-i.com",
+          "password": "alec1234",
+          "type": "operator",
+          "id": "GwjM41S"
+        }
+      ],
+      "managedBy": "2",
+      "createdOn": "2022-07-25T15:44:24.231Z",
+      "id": 5
+    },
+    {
+      "name": "for alex",
+      "members": [
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        }
+      ],
+      "managedBy": "0a79df55-d8ee-4c55-b6b0-9ce07458744d",
+      "createdOn": "2022-08-19T16:12:47.993Z",
+      "id": 6
+    }
+  ],
+  "items": [
+    {
+      "teamId": 2,
+      "itemname": 4254,
+      "taskowners": [
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        }
+      ],
+      "status": "To do",
+      "estimated": "",
+      "createdOn": "2022-08-22T16:08:08.970Z",
+      "genre_id": "",
+      "id": 4254,
+      "imdbid": "",
+      "platform_id": 2,
+      "platform_title_id": "amzn1.dv.gti.aad09f41-151b-42ea-9986-ebd9036cab57",
+      "season_number": 2,
+      "title": "The Walking Dead: World Beyond",
+      "videotype": "series"
+    },
+    {
+      "teamId": 2,
+      "itemname": 4275,
+      "taskowners": [
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        }
+      ],
+      "status": "To do",
+      "estimated": "",
+      "createdOn": "2022-08-22T16:08:08.970Z",
+      "genre_id": "",
+      "id": 4275,
+      "imdbid": "",
+      "platform_id": 2,
+      "platform_title_id": "amzn1.dv.gti.eb23dc94-e8bd-490e-a94d-041bc3d41795",
+      "season_number": 1,
+      "title": "Men in Kilts: A Roadtrip with Sam and Graham",
+      "videotype": "series"
+    },
+    {
+      "teamId": 2,
+      "itemname": 4375,
+      "taskowners": [
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        }
+      ],
+      "status": "To do",
+      "estimated": "",
+      "createdOn": "2022-08-22T16:08:08.971Z",
+      "genre_id": "",
+      "id": 4375,
+      "imdbid": "",
+      "platform_id": 2,
+      "platform_title_id": "amzn1.dv.gti.859bd348-57ae-4b1c-89e1-1ac6265373d1",
+      "runtime": 7052,
+      "title": "Ammonite (UHD) (4K UHD)",
+      "videotype": "movie"
+    },
+    {
+      "teamId": 2,
+      "itemname": 4252,
+      "taskowners": [
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        }
+      ],
+      "status": "To do",
+      "estimated": "",
+      "createdOn": "2022-08-22T16:08:08.969Z",
+      "genre_id": "",
+      "id": 4252,
+      "imdbid": "",
+      "platform_id": 2,
+      "platform_title_id": "amzn1.dv.gti.a02b38c6-f71c-4449-ae95-6d694a17e3b6",
+      "season_number": 2,
+      "title": "Criminal Confessions",
+      "videotype": "series"
+    },
+    {
+      "teamId": 2,
+      "itemname": 4444,
+      "taskowners": [
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        }
+      ],
+      "status": "To do",
+      "estimated": "",
+      "createdOn": "2022-08-22T16:08:08.971Z",
+      "genre_id": "",
+      "id": 4444,
+      "imdbid": "",
+      "platform_id": 2,
+      "platform_title_id": "amzn1.dv.gti.b6b1a3a8-43f7-ded7-7af7-d40d45f42067",
+      "season_number": 1,
+      "title": "All or Nothing: New Zealand All Blacks",
+      "videotype": "series"
+    },
+    {
+      "teamId": 2,
+      "itemname": 4637,
+      "taskowners": [
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        }
+      ],
+      "status": "To do",
+      "estimated": "",
+      "createdOn": "2022-08-22T16:08:08.972Z",
+      "genre_id": "",
+      "id": 4637,
+      "imdbid": "",
+      "platform_id": 2,
+      "platform_title_id": "amzn1.dv.gti.10ad2e4b-e941-7307-6a21-3cea4e23cbfb",
+      "runtime": 1366,
+      "title": "AC/DC - Hell's Highway Live",
+      "videotype": "movie"
+    },
+    {
+      "teamId": 2,
+      "itemname": 5124,
+      "taskowners": [
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        }
+      ],
+      "status": "To do",
+      "estimated": "",
+      "createdOn": "2022-08-22T16:08:08.972Z",
+      "genre_id": "",
+      "id": 5124,
+      "imdbid": "",
+      "platform_id": 2,
+      "platform_title_id": "amzn1.dv.gti.56ad4380-6b0b-24b6-b7fd-2cd0e8c951c9",
+      "season_number": 3,
+      "title": "Learn & Play with Steve and Maggie",
+      "videotype": "series"
+    },
+    {
+      "teamId": 2,
+      "itemname": 5125,
+      "taskowners": [
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        }
+      ],
+      "status": "To do",
+      "estimated": "",
+      "createdOn": "2022-08-22T16:08:08.972Z",
+      "genre_id": "",
+      "id": 5125,
+      "imdbid": "",
+      "platform_id": 2,
+      "platform_title_id": "amzn1.dv.gti.98acfdfb-3b28-a9a4-bdc2-74a501b93a09",
+      "season_number": 2,
+      "title": "Learn & Play with Steve and Maggie",
+      "videotype": "series"
+    },
+    {
+      "teamId": 2,
+      "itemname": 5159,
+      "taskowners": [
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        }
+      ],
+      "status": "To do",
+      "estimated": "",
+      "createdOn": "2022-08-22T16:08:08.973Z",
+      "genre_id": "",
+      "id": 5159,
+      "imdbid": "",
+      "platform_id": 2,
+      "platform_title_id": "amzn1.dv.gti.6eab268b-85dd-d493-dfa2-b8f127bb5160",
+      "runtime": 7480,
+      "title": "Meat Loaf - Live From Sydney, Australia (The Guilty Pleasure Tour)",
+      "videotype": "movie"
+    },
+    {
+      "teamId": 2,
+      "itemname": 5170,
+      "taskowners": [
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        }
+      ],
+      "status": "To do",
+      "estimated": "",
+      "createdOn": "2022-08-22T16:08:08.973Z",
+      "genre_id": "",
+      "id": 5170,
+      "imdbid": "",
+      "platform_id": 2,
+      "platform_title_id": "amzn1.dv.gti.d0b4f7f2-9758-e7d7-301f-6f034ba0214f",
+      "season_number": 1,
+      "title": "Super Truck - Carl the Transformer",
+      "videotype": "series"
+    },
+    {
+      "teamId": 2,
+      "itemname": 5172,
+      "taskowners": [
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        }
+      ],
+      "status": "To do",
+      "estimated": "",
+      "createdOn": "2022-08-22T16:08:08.974Z",
+      "genre_id": "",
+      "id": 5172,
+      "imdbid": "",
+      "platform_id": 2,
+      "platform_title_id": "amzn1.dv.gti.6ab992e0-0b42-807f-dac9-8a751dc774d3",
+      "season_number": 1,
+      "title": "Zerby Derby",
+      "videotype": "series"
+    },
+    {
+      "teamId": 2,
+      "itemname": 5211,
+      "taskowners": [
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        }
+      ],
+      "status": "To do",
+      "estimated": "",
+      "createdOn": "2022-08-22T16:08:08.974Z",
+      "genre_id": "",
+      "id": 5211,
+      "imdbid": "",
+      "platform_id": 2,
+      "platform_title_id": "amzn1.dv.gti.acb71ef4-2dea-2d93-4b4d-379576188467",
+      "season_number": 1,
+      "title": "The Palace",
+      "videotype": "series"
+    },
+    {
+      "teamId": 2,
+      "itemname": 5217,
+      "taskowners": [
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        }
+      ],
+      "status": "To do",
+      "estimated": "",
+      "createdOn": "2022-08-22T16:08:08.974Z",
+      "genre_id": "",
+      "id": 5217,
+      "imdbid": "",
+      "platform_id": 2,
+      "platform_title_id": "amzn1.dv.gti.2caec28d-4861-a5e1-e640-c962fcf61f22",
+      "season_number": 1,
+      "title": "So Dark",
+      "videotype": "series"
+    },
+    {
+      "teamId": 2,
+      "itemname": 5219,
+      "taskowners": [
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        }
+      ],
+      "status": "To do",
+      "estimated": "",
+      "createdOn": "2022-08-22T16:08:08.974Z",
+      "genre_id": "",
+      "id": 5219,
+      "imdbid": "",
+      "platform_id": 2,
+      "platform_title_id": "amzn1.dv.gti.7eb66d48-e66f-fc27-f413-8f63745c625b",
+      "season_number": 2,
+      "title": "Comic Book Men",
+      "videotype": "series"
+    },
+    {
+      "teamId": 2,
+      "itemname": 5220,
+      "taskowners": [
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        }
+      ],
+      "status": "To do",
+      "estimated": "",
+      "createdOn": "2022-08-22T16:08:08.974Z",
+      "genre_id": "",
+      "id": 5220,
+      "imdbid": "",
+      "platform_id": 2,
+      "platform_title_id": "amzn1.dv.gti.4eb4d35c-bc8e-791f-ed64-c97c42bd8532",
+      "season_number": 1,
+      "title": "Haunted State",
+      "videotype": "series"
+    },
+    {
+      "teamId": 2,
+      "itemname": 5230,
+      "taskowners": [
+        {
+          "fullname": "Alex Summers",
+          "email": "alex@digital-i.com",
+          "password": "alex1234",
+          "type": "operator",
+          "id": "wjrk3u4"
+        }
+      ],
+      "status": "To do",
+      "estimated": "",
+      "createdOn": "2022-08-22T16:08:08.975Z",
+      "genre_id": "",
+      "id": 5230,
+      "imdbid": "",
+      "platform_id": 2,
+      "platform_title_id": "amzn1.dv.gti.e2aaa594-7ce6-b02d-20f0-bdcceef6cc5b",
+      "runtime": 6232,
+      "title": "No Letting Go",
+      "videotype": "movie"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "1",
+      "receivedBy": "qDR15UG",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Assigned",
+        "info": "Split amazon collection logic into steps"
+      },
+      "time": "2022-07-26T14:25:03.559Z",
+      "team": {
+        "name": "SoDA",
+        "id": 1
+      },
+      "read": false
+    },
+    {
+      "receivedBy": "qDR15UG",
+      "sendBy": {
+        "id": "wBpocFy",
+        "fullname": "Daniel Molano"
+      },
+      "content": {
+        "type": "Added",
+        "info": "Notifiable Team"
+      },
+      "time": "2022-07-27T10:50:35.554Z",
+      "team": {
+        "name": "Notifiable Team",
+        "id": 7
+      },
+      "read": false,
+      "id": "TzGhxlb"
+    },
+    {
+      "receivedBy": "qDR15UG",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "Notify Sajeel"
+      },
+      "time": "2022-07-27T11:02:25.094Z",
+      "team": {
+        "name": "Notify Sajeel",
+        "id": 8
+      },
+      "read": false,
+      "id": "IuBhdvc"
+    },
+    {
+      "receivedBy": "qDR15UG",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "mem logs"
+      },
+      "time": "2022-07-27T11:07:20.500Z",
+      "team": {
+        "name": "mem logs",
+        "id": 10
+      },
+      "read": false,
+      "id": "jlv-TDV"
+    },
+    {
+      "receivedBy": "wjrk3u4",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "mem logs"
+      },
+      "time": "2022-07-27T11:07:20.504Z",
+      "team": {
+        "name": "mem logs",
+        "id": 10
+      },
+      "read": false,
+      "id": "qzDnQT2"
+    },
+    {
+      "receivedBy": "oaCAU_h",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "mem logs"
+      },
+      "time": "2022-07-27T11:07:20.507Z",
+      "team": {
+        "name": "mem logs",
+        "id": 10
+      },
+      "read": false,
+      "id": "cCDm-ZH"
+    },
+    {
+      "receivedBy": "GwjM41S",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "mem logs"
+      },
+      "time": "2022-07-27T11:07:20.511Z",
+      "team": {
+        "name": "mem logs",
+        "id": 10
+      },
+      "read": false,
+      "id": "vWV946S"
+    },
+    {
+      "receivedBy": "IrxZvNU",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "mem logs"
+      },
+      "time": "2022-07-27T11:07:20.515Z",
+      "team": {
+        "name": "mem logs",
+        "id": 10
+      },
+      "read": false,
+      "id": "kAnS4Ow"
+    },
+    {
+      "receivedBy": "X9dS_Qz",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "mem logs"
+      },
+      "time": "2022-07-27T11:07:20.518Z",
+      "team": {
+        "name": "mem logs",
+        "id": 10
+      },
+      "read": false,
+      "id": "WYBDNmO"
+    },
+    {
+      "receivedBy": "1",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "mem logs"
+      },
+      "time": "2022-07-27T11:07:20.521Z",
+      "team": {
+        "name": "mem logs",
+        "id": 10
+      },
+      "read": false,
+      "id": "c89MpKS"
+    },
+    {
+      "receivedBy": "qDR15UG",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "Promise.all notifies"
+      },
+      "time": "2022-07-27T11:16:22.274Z",
+      "team": {
+        "name": "Promise.all notifies",
+        "id": 11
+      },
+      "read": false,
+      "id": "TlTk3rn"
+    },
+    {
+      "receivedBy": "wjrk3u4",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "Promise.all notifies"
+      },
+      "time": "2022-07-27T11:16:22.277Z",
+      "team": {
+        "name": "Promise.all notifies",
+        "id": 11
+      },
+      "read": false,
+      "id": "o4YDSbj"
+    },
+    {
+      "receivedBy": "oaCAU_h",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "Promise.all notifies"
+      },
+      "time": "2022-07-27T11:16:22.281Z",
+      "team": {
+        "name": "Promise.all notifies",
+        "id": 11
+      },
+      "read": false,
+      "id": "RCrkH7t"
+    },
+    {
+      "receivedBy": "qDR15UG",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "log all promises"
+      },
+      "time": "2022-07-27T11:17:47.874Z",
+      "team": {
+        "name": "log all promises",
+        "id": 12
+      },
+      "read": false,
+      "id": "mlEZsNa"
+    },
+    {
+      "receivedBy": "wjrk3u4",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "log all promises"
+      },
+      "time": "2022-07-27T11:17:47.877Z",
+      "team": {
+        "name": "log all promises",
+        "id": 12
+      },
+      "read": false,
+      "id": "jmwVQi2"
+    },
+    {
+      "receivedBy": "oaCAU_h",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "log all promises"
+      },
+      "time": "2022-07-27T11:17:47.881Z",
+      "team": {
+        "name": "log all promises",
+        "id": 12
+      },
+      "read": false,
+      "id": "cIJ15Qi"
+    },
+    {
+      "receivedBy": "1",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "Send Notifications to ALL Members"
+      },
+      "time": "2022-07-27T11:19:19.562Z",
+      "team": {
+        "name": "Send Notifications to ALL Members",
+        "id": 13
+      },
+      "read": false,
+      "id": "sg355c7"
+    },
+    {
+      "receivedBy": "wjrk3u4",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "Send Notifications to ALL Members"
+      },
+      "time": "2022-07-27T11:19:19.570Z",
+      "team": {
+        "name": "Send Notifications to ALL Members",
+        "id": 13
+      },
+      "read": false,
+      "id": "68G0l9w"
+    },
+    {
+      "receivedBy": "oaCAU_h",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "Send Notifications to ALL Members"
+      },
+      "time": "2022-07-27T11:19:19.573Z",
+      "team": {
+        "name": "Send Notifications to ALL Members",
+        "id": 13
+      },
+      "read": false,
+      "id": "WeSCaK2"
+    },
+    {
+      "receivedBy": "X9dS_Qz",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "Send Notifications to ALL Members"
+      },
+      "time": "2022-07-27T11:19:19.577Z",
+      "team": {
+        "name": "Send Notifications to ALL Members",
+        "id": 13
+      },
+      "read": false,
+      "id": "Wuykil1"
+    },
+    {
+      "receivedBy": "IrxZvNU",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "Send Notifications to ALL Members"
+      },
+      "time": "2022-07-27T11:19:19.580Z",
+      "team": {
+        "name": "Send Notifications to ALL Members",
+        "id": 13
+      },
+      "read": false,
+      "id": "LeYALX8"
+    },
+    {
+      "receivedBy": "qDR15UG",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "Send Notifications to ALL Members"
+      },
+      "time": "2022-07-27T11:19:19.566Z",
+      "team": {
+        "name": "Send Notifications to ALL Members",
+        "id": 13
+      },
+      "read": false,
+      "id": "iOiCff4"
+    },
+    {
+      "receivedBy": "GwjM41S",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "Send Notifications to ALL Members"
+      },
+      "time": "2022-07-27T11:19:19.583Z",
+      "team": {
+        "name": "Send Notifications to ALL Members",
+        "id": 13
+      },
+      "read": false,
+      "id": "Zwgi_XI"
+    },
+    {
+      "receivedBy": "oaCAU_h",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "new taem agaiun"
+      },
+      "time": "2022-08-19T14:29:51.666Z",
+      "team": {
+        "name": "new taem agaiun",
+        "id": 7
+      },
+      "read": false,
+      "id": "Z1qfXze"
+    },
+    {
+      "receivedBy": "wjrk3u4",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "new taem agaiun"
+      },
+      "time": "2022-08-19T14:29:51.667Z",
+      "team": {
+        "name": "new taem agaiun",
+        "id": 7
+      },
+      "read": false,
+      "id": "dtRsq2p"
+    },
+    {
+      "receivedBy": "qDR15UG",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "new taem agaiun"
+      },
+      "time": "2022-08-19T14:29:51.668Z",
+      "team": {
+        "name": "new taem agaiun",
+        "id": 7
+      },
+      "read": false,
+      "id": "fgf_hwE"
+    },
+    {
+      "receivedBy": "wjrk3u4",
+      "sendBy": {
+        "fullname": "Daniel Molano",
+        "id": "wBpocFy"
+      },
+      "content": {
+        "type": "Added",
+        "info": "for alex"
+      },
+      "time": "2022-08-19T16:12:48.033Z",
+      "team": {
+        "name": "for alex",
+        "id": 6
+      },
+      "read": false,
+      "id": "tdOEg7o"
+    }
+  ]
 }
