@@ -258,7 +258,7 @@
           "id": "wjrk3u4"
         }
       ],
-      "status": "To do",
+      "status": "Done",
       "estimated": "",
       "createdOn": "2022-08-22T16:08:08.970Z",
       "genre_id": "",
@@ -282,7 +282,7 @@
           "id": "wjrk3u4"
         }
       ],
-      "status": "To do",
+      "status": "Done",
       "estimated": "",
       "createdOn": "2022-08-22T16:08:08.970Z",
       "genre_id": "",
@@ -629,6 +629,78 @@
       "runtime": 6232,
       "title": "No Letting Go",
       "videotype": "movie"
+    },
+    {
+      "teamId": 2,
+      "itemname": 4098,
+      "taskowners": [
+        {
+          "fullname": "Sajeel Hassan",
+          "email": "sajeel@digital-i.com",
+          "password": "sajeel23",
+          "type": "operator",
+          "id": "qDR15UG"
+        }
+      ],
+      "status": "To do",
+      "estimated": "",
+      "createdOn": "2022-10-28T15:41:23.549Z",
+      "genre_id": "",
+      "id": 4098,
+      "imdbid": "",
+      "platform_id": 2,
+      "platform_title_id": "amzn1.dv.gti.0eb4f7cb-f30c-a75a-f66f-f48d177e1a46",
+      "season_number": 3,
+      "title": "Sneaky Pete",
+      "videotype": "series"
+    },
+    {
+      "teamId": 2,
+      "itemname": 4311,
+      "taskowners": [
+        {
+          "fullname": "Sajeel Hassan",
+          "email": "sajeel@digital-i.com",
+          "password": "sajeel23",
+          "type": "operator",
+          "id": "qDR15UG"
+        }
+      ],
+      "status": "To do",
+      "estimated": "",
+      "createdOn": "2022-10-28T15:41:23.552Z",
+      "genre_id": "",
+      "id": 4311,
+      "imdbid": "",
+      "platform_id": 2,
+      "platform_title_id": "amzn1.dv.gti.aeba07d7-f53f-1c14-05e6-957a416217ba",
+      "season_number": 5,
+      "title": "The Real Housewives of Beverly Hills",
+      "videotype": "series"
+    },
+    {
+      "teamId": 2,
+      "itemname": 4337,
+      "taskowners": [
+        {
+          "fullname": "Sajeel Hassan",
+          "email": "sajeel@digital-i.com",
+          "password": "sajeel23",
+          "type": "operator",
+          "id": "qDR15UG"
+        }
+      ],
+      "status": "To do",
+      "estimated": "",
+      "createdOn": "2022-10-28T15:41:23.552Z",
+      "genre_id": "",
+      "id": 4337,
+      "imdbid": "",
+      "platform_id": 2,
+      "platform_title_id": "amzn1.dv.gti.98a9f672-ab47-a37e-106e-a93dc2cb24fb",
+      "season_number": 1,
+      "title": "House of Anubis",
+      "videotype": "series"
     }
   ],
   "notifications": [
